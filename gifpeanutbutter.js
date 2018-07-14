@@ -1,5 +1,5 @@
 
- var bands = ["Ac/Dc", "Linkin Park", "Guns and Roses", "Rolling Stones", "Culture Club", "Toto", "The Who"];   
+ var bands = ["Pierce the veil", "Linkin Park", "Dance Gavin Dance", "Sleeping with Sirens", "A Day to Remember", "The Black Keys", "The beatles"];   
  function renderButtons() {
  
  $("#buttons-view").empty();
